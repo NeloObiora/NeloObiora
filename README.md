@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi there 👋, I am Nelo 
+
+About Me
+I'm a Data Scientist with
 
 <!--
 **NeloObiora/NeloObiora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
