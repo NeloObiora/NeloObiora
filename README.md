@@ -11,7 +11,7 @@ Developed interest in Machine Learning and AI in general.
 
 ## SKILLS
 -Programming Language: Python, SQL
--Tools: Excel, Tableau, Numpy, Matplotlib, Seaborn, Scikit-learn
+-Tools: Excel, Tableau, Numpy, Matplotlib, Seaborn,Pandas, Scikit-learn
 -Visualizing trends with Tableau
 
 ## CURRENT PROJECT
@@ -21,9 +21,10 @@ Developed interest in Machine Learning and AI in general.
 ## PROJECTS
 Restaurant Data Analysis: Using Python for data cleaning, creation of static dashboard using matplotlib and analysing sales trends.
 
-##Let's Connect!
+## Let's Connect!
 📧 Email: ritaobiora23@gmail.com
 🔗 Linkedin: (https://www.linkedin.com/in/rita-obiora)
+
 
 ## Analyzing data isn't just a job for me, it's a way to create clarity in complexity.
 
