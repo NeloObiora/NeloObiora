@@ -9,8 +9,8 @@ Developed interest in Machine Learning and AI in general.
  🔭 I’m currently learning SQL and database management at Code First Girls Uk
 
 ## SKILLS
- -**Programming Language**: Python, SQL  
-  -**Tools**: Excel, Tableau, Numpy, Matplotlib, Seaborn,Pandas, Scikit-learn
+ -**Programming Language**: Python, SQL    
+  - **Tools**: Excel, Tableau, Numpy, Matplotlib, Seaborn,Pandas, Scikit-learn
  
 
 ## CURRENT PROJECT
