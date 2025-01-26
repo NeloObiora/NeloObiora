@@ -1,25 +1,24 @@
 ## Hi there 👋, I am Nelo 
-I'm a Data Scientist, Data Analyst and Economist. 
-I enjoy solving problems with data, automating processes and creating insights that drive decisions.
-Developed interest in Machine Learning and AI in general.
-💞 Always learning new things.
-💗 I enjoy playing badminton and travelling.
 
 ## ABOUT ME
+I'm a Data Scientist, Data Analyst and Economist. I enjoy solving problems with data, automating processes and creating insights that drive decisions. 
+Developed interest in Machine Learning and AI in general. 
+💞 Always learning new things. 
+💗 I enjoy playing badminton and travelling.
 🌍 Based in Nigeria 
  🔭 I’m currently learning SQL and database management at Code First Girls Uk
 
 ## SKILLS
--Programming Language: Python, SQL  
- -Tools: Excel, Tableau, Numpy, Matplotlib, Seaborn,Pandas, Scikit-learn
- -Visualizing trends with Tableau
+ -**Programming Language**: Python, SQL  
+  -**Tools**: Excel, Tableau, Numpy, Matplotlib, Seaborn,Pandas, Scikit-learn
+ 
 
 ## CURRENT PROJECT
--I’m currently working on Car prediction Analysis: It's a Machine learning projects using Linear regression to predict car prices.
- -Creating a debtors database using MYSQL Benchmark
+-**Car prediction Analysis**: It's a Machine learning projects using Linear regression to predict car prices.
+  -**Debtors database**: using MYSQL Benchmark
 
 ## PROJECTS
- Restaurant Data Analysis: Using Python for data cleaning, creation of static dashboard using matplotlib and analysing sales trends.
+ **Restaurant Data Analysis**: Python based project for data cleaning, creation of dashboard using matplotlib and analysing sales trends.
 
 ## Let's Connect!
  📧 Email: ritaobiora23@gmail.com 
