@@ -25,7 +25,7 @@ Developed interest in Machine Learning and AI in general.
  🔗  Linkedin: (https://www.linkedin.com/in/rita-obiora)
 
 
-## Analyzing data isn't just a job for me, it's a way to create clarity in complexity.
+**Analyzing data isn't just a job for me, it's a way to create clarity in complexity**.
 
 
 <!--
