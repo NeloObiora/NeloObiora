@@ -6,16 +6,11 @@ Developed interest in Machine Learning and AI in general.
 💞  Always learning new things. 
 💗  I enjoy playing badminton and travelling.
 🌍  Based in Nigeria 
-🔭  I’m currently learning SQL and database management at Code First Girls Uk
+
 
 ## SKILLS
  -  **Programming Language**: Python, SQL    
   - **Tools**: Excel, Tableau, Numpy, Matplotlib, Seaborn,Pandas, Scikit-learn
- 
-
-## CURRENT PROJECT
-- **Car prediction Analysis**: It's a Machine learning projects using Linear regression to predict car prices.
-- **Debtors database**: using MYSQL Benchmark
 
 ## PROJECTS
  **Restaurant Data Analysis**: Python based project for data cleaning, creation of dashboard using matplotlib and analysing sales trends.
