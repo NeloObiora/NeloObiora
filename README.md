@@ -1,8 +1,7 @@
 ## Hi there 👋, I am Rita 
 
 ## ABOUT ME
-I'm a Data Scientist, Data Analyst and Economist. I enjoy solving problems with data, automating processes and creating insights that drive decisions. 
-Developed interest in Machine Learning and AI in general. 
+I'm a Data Analyst, Financial Analyst and Economist. I enjoy solving problems with data, automating processes and creating insights that drive decisions. 
 💞  Always learning new things. 
 💗  I enjoy playing badminton and travelling.
 
